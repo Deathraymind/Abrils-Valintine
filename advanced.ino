@@ -9,7 +9,7 @@
 
 // --- Config ---
 const char* ssid = "OpenWrt";
-const char* password = "greentara";
+const char* password = "0000000";
 const char* jsonUrl = "https://api.npoint.io/72bdf243cede70fee88b";
 
 const char* ntpServer = "pool.ntp.org";
